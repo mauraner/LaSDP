@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Contactez nous"
 draft: false
 info: 
   title: Why you should contact us!

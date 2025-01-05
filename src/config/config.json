@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Bigspring Light Astro",
+    "title": "La Symbolique du Poulet",
     "base_url": "https://bigspring-light-astro.vercel.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/LaSDP_logo.png",
+    "logo": "/images/LaSDP_logo_rect.png",
     "logo_width": "200",
-    "logo_height": "38",
-    "logo_text": "Astroplate"
+    "logo_height": "100",
+    "logo_text": "SDB"
   },
 
   "settings": {
@@ -18,7 +18,7 @@
   },
 
   "nav_button": {
-    "enable": true,
+    "enable": false,
     "label": "Get Started",
     "link": "/contact"
   },

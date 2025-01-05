@@ -9,66 +9,58 @@
       "url": "/blog"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Évènements",
+      "url": "/events"
     },
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Lieu",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "13 bis rue des soldats",
+          "url": "https://www.openstreetmap.org/node/6415239814"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
+          "text": "34000 Montpellier",
+          "url": "https://www.openstreetmap.org/node/6415239814"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "X",
       "menu": [
         {
-          "text": "Features",
+          "text": "1",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "2",
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "3",
+          "url": ""
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Y",
       "menu": [
         {
-          "text": "FAQ",
+          "text": "1",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "2",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "3",
           "url": "/terms-conditions"
         }
       ]

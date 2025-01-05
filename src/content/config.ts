@@ -26,22 +26,7 @@ const homepage = defineCollection({
         link: z.string().default("#"),
         enable: z.boolean().default(true)
       }).optional()
-    })).optional(),
-    workflow: z.object({
-      title: z.string().optional(),
-      description: z.string().optional(),
-      image: z.string()
-    }).optional(),
-    call_to_action: z.object({
-      title: z.string().optional(),
-      content: z.string().optional(),
-      image: z.string(),
-      button: z.object({
-        label: z.string(),
-        link: z.string().default("#"),
-        enable: z.boolean().default(true)
-      }).optional()
-    }).optional()
+    })).optional()
   }),
 });
 
