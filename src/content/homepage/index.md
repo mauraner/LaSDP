@@ -4,7 +4,7 @@ banner:
 
 # feature
 feature: 
-  title: "Livres neufs et usagers"
+  title: "Livres neufs et usagés"
   features:
   - name: "Science-Fiction"
     icon: "/images/code.svg"
