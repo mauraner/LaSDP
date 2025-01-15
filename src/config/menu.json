@@ -1,16 +1,12 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Accueil",
       "url": "/"
     },
     {
       "name": "Blog",
       "url": "/blog"
-    },
-    {
-      "name": "Évènements",
-      "url": "/events"
     },
     {
       "name": "Contact",
@@ -32,35 +28,35 @@
       ]
     },
     {
-      "name": "X",
+      "name": " ",
       "menu": [
         {
-          "text": "1",
+          "text": " ",
           "url": "#"
         },
         {
-          "text": "2",
+          "text": " ",
           "url": "#"
         },
         {
-          "text": "3",
+          "text": " ",
           "url": ""
         }
       ]
     },
     {
-      "name": "Y",
+      "name": " ",
       "menu": [
         {
-          "text": "1",
+          "text": " ",
           "url": "/faq"
         },
         {
-          "text": "2",
+          "text": " ",
           "url": "/privacy-policy"
         },
         {
-          "text": "3",
+          "text": " ",
           "url": "/terms-conditions"
         }
       ]

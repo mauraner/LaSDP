@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "La Symbolique du Poulet",
-    "base_url": "https://bigspring-light-astro.vercel.app",
+    "base_url": "https://lasdb.org",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/LaSDP_logo.png",
     "logo": "/images/LaSDP_logo_rect.png",
-    "logo_width": "200",
-    "logo_height": "100",
+    "logo_width": "240",
+    "logo_height": "120",
     "logo_text": "SDB"
   },
 
@@ -26,8 +26,8 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "footer_content": "",
+    "copyright": "Built with Astro, design by [Themefisher](https://themefisher.com/)"
   },
 
   "metadata": {

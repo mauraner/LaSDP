@@ -8,22 +8,22 @@ feature:
   features:
   - name: "Science-Fiction"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Fantasy"
+    content: " "
+  - name: "Histoire"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: " "
   - name: "Sciences politiques"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Histoire"
+    content: " "
+  - name: "Histoire des luttes"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: " "
   - name: "Féminisme"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: " "
   - name: "Enfants"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: " "
 
 # services
 services:
@@ -37,12 +37,6 @@ services:
       enable: false
       label: Check it out
       link: /contact
-      
-# workflow
-workflow: 
-  title: "Experience the best workflow with us"
-  image: ""
-  description: ""
 
 # call_to_action
 call_to_action:

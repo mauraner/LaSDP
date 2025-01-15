@@ -1,12 +1,12 @@
 ---
-title: "Contactez nous"
+title: "Contactez-nous"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: 
+  description: 
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Téléphone : 06 04 05 48 67"
+    - "E-mail : [symboliquedupoulet@gmail.com](mailto:symboliquedupoulet@gmail.com)"
+    - "Addresse : 13bis rue des soldats, 34000 Montpellier"
 ---
 
